@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiROM Manager</string>
+    
+    <string name="config">Configuration</string>
+    <string name="enable_auto">Enable automatic boot</string>
+    <string name="delay">Delay</string>
+    <string name="rom">ROM</string>
+    <string name="installed_roms">Installed ROMs</string>
+    <string name="no_roms">No ROMs installed</string>
+    <string name="add_rom">Add ROM</string>
+    <string name="checking_root">Checking for root...</string>
+    <string name="error">Error</string>
+    <string name="root_failed">Failed to gain root access!</string>
+    <string name="exit">Exit</string>
+    <string name="rename">Rename</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="rename_fail">Failed to rename: %1$s</string>
+    <string name="rename_ok">ROM successfuly renamed</string>
+    <string name="rename_rom">Rename ROM</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="delete_rom">Delete ROM</string>
+    <string name="delete_ask">Do you really want to delete ROM \"%1$s\"?</string>
+    <string name="delete_fail">Failed to delete: %1$s</string>
+    <string name="delete_ok">ROM successfuly deleted</string>
+    
+</resources>
